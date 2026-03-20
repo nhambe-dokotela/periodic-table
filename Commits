@@ -1,0 +1,5 @@
+Initial commit
+feat: add element lookup by atomic number
+feat: add element lookup by symbol and name
+fix: handle missing element argument
+chore: finalize element.sh script
